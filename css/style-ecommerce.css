@@ -1,0 +1,26 @@
+/* STYLE FOR PRODUK SLIDER */
+.produk-slider {
+height: 255px !important;
+}
+
+.produk-content {
+    background-color: black !important;
+}
+
+.produk-content img{
+    opacity: 0.1 ;
+}
+
+.text-content {
+  font-size: 27px; 
+  margin-bottom: 30px;  
+}
+
+.card-content{
+    margin-left: 100;
+}
+
+
+.footer{
+    padding:29px ;
+  }
